@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/><a href="https://github.com/Mark-Cyber">Security Analyst</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>CyberSecurity Projects👨‍💻:</h2>
 
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attack](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
 
