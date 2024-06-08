@@ -7,12 +7,13 @@
 <h2>Certifications📜 </h2>
 
 [Microsoft Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-us/MarkKamotho-9627/924C7328A47B84CB?sharingId=3C3E8366B7D705F0)
-- [CompTIA Security+] (https://www.credly.com/badges/fd71dd71-a18c-4b1d-ac1d-14a835886fc7/public_url)
 
 
+[CompTIA Security+](https://www.credly.com/badges/fd71dd71-a18c-4b1d-ac1d-14a835886fc7/public_url)
 
-- [CompTIA CySA+] (https://www.credly.com/badges/6236b8e6-f6da-489e-b8c8-315ad0646231/public_url)
-<h2> 🤳 Connect with me:</h2>
+
+[CompTIA CySA+](https://www.credly.com/badges/6236b8e6-f6da-489e-b8c8-315ad0646231/public_url
+)
 
 [linkedin]: https://www.linkedin.com/in/mark-kamotho-9b67971b8/
 
