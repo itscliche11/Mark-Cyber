@@ -1,8 +1,13 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/Mark-Cyber">Programmer</a>, <a href="https://www.linkedin.com/in/mark-kamotho-9b67971b8"
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/Mark-Cyber">Security Analyst</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attack](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
+
+<h2>Upcoming Projects⏰</h2>
+  - Setting up a Virtual Active Directory Environment in Azure (June 13th)
+  - Creating a File Integrity Monitor (June 13th)
+  - Creating a Vulnerability Management Lab (June 17th)
 
 <h2>Certifications📜 </h2>
 
