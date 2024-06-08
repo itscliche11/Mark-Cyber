@@ -5,6 +5,7 @@
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attack](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
 
 <h2>Upcoming Projects⏰</h2>
+
   - Setting up a Virtual Active Directory Environment in Azure (June 13th)
   
   - Creating a File Integrity Monitor (June 13th)
