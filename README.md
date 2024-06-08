@@ -6,7 +6,9 @@
 
 <h2>Upcoming Projects⏰</h2>
   - Setting up a Virtual Active Directory Environment in Azure (June 13th)
+  
   - Creating a File Integrity Monitor (June 13th)
+
   - Creating a Vulnerability Management Lab (June 17th)
 
 <h2>Certifications📜 </h2>
