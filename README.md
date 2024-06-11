@@ -3,7 +3,7 @@
 <h2>👨‍💻CyberSecurity Projects</h2>
 
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attacks](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
-  - [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/
+  - [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/Active-Directory/blob/main/README.md#setting-up-a-home-lab-running-active-directory-oracle-virtualbox-and-adding-users-with-powershell)
 
 <h2>⏰Upcoming Projects</h2>
 
