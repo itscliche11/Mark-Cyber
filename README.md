@@ -5,6 +5,17 @@
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attacks](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
   - Active Directory [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/Active-Directory/blob/main/README.md#setting-up-a-home-lab-running-active-directory-oracle-virtualbox-and-adding-users-with-powershell)
 
+
+<h2>📊Experience</h2>
+
+Security Analyst. 01/2024 - Present
+Performed the following tasks for Azure Sentinel (SIEM):
+	•	Used custom Powershell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data
+	•	Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, province, country)
+	•	Configured custom fields in Log Analytics Workspace with the intent of mapping geo data in Azure Sentinel
+	•	Configured Azure Sentinel (Microsoft’s cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
+
+
 <h2>⏰Upcoming Projects</h2>
 
   - Creating a File Integrity Monitor (June 13th)
