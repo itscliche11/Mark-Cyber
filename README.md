@@ -9,6 +9,7 @@
 <h2>📊Experience</h2>
 
 Security Analyst. 01/2024 - Present
+
 Performed the following tasks for Azure Sentinel (SIEM):
 
 - Used custom Powershell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data
