@@ -20,6 +20,17 @@ Performed the following tasks for Azure Sentinel (SIEM):
 
 - Configured Azure Sentinel (Microsoft’s cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
 
+Perform the following task for creating Active Directory lab:
+- Created a virtual machine to act as a domain controller to house active directory and inside it I've configured network adapters that connect to the VMware network and the public internet. 
+
+- Setup a DHCP on a domain controller to lease IP addresses to simulated clients that I've created through a powershell script
+
+- Created a domain through Active Direct Domain Services
+
+- Configured routing and NAT so  clients in the private network can reach the internet from the domain controller.
+
+- Created and ran a powershell script that creates new users and gives them usernames and passwords, an organisational unit and an employee ID. I've essentially used the powershell script to replicate a corporate network onboarding process.
+
 
 <h2>⏰Upcoming Projects</h2>
 
