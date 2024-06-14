@@ -4,7 +4,7 @@
 
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attacks](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
   - Active Directory [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/Active-Directory/blob/main/README.md#setting-up-a-home-lab-running-active-directory-oracle-virtualbox-and-adding-users-with-powershell)
-  - Nessus [Creating a Vulnerability Management Lab with Nessus]()
+  - Nessus [Creating a Vulnerability Management Lab with Nessus](https://github.com/Mxrk23/Vulnerability-Management)
 
 
 <h2>📊Experience</h2>
