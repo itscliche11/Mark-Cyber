@@ -4,6 +4,7 @@
 
   - Azure Sentinel SIEM [Creating an Azure Sentinel Map with LIVE Cyber Attacks](https://github.com/Mxrk23/Azure-Sentinel-SIEM-Lab)
   - Active Directory [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/Active-Directory/blob/main/README.md#setting-up-a-home-lab-running-active-directory-oracle-virtualbox-and-adding-users-with-powershell)
+  - Nessus [Creating a Vulnerability Management Lab with Nessus]()
 
 
 <h2>📊Experience</h2>
@@ -20,7 +21,7 @@ Performed the following tasks for Azure Sentinel (SIEM):
 
 - Configured Azure Sentinel (Microsoft’s cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
 
-Perform the following task for creating Active Directory lab:
+Performed the following task for creating Active Directory lab:
 - Created a virtual machine to act as a domain controller to house active directory and inside it I've configured network adapters that connect to the VMware network and the public internet. 
 
 - Setup a DHCP on a domain controller to lease IP addresses to simulated clients that I've created through a powershell script
@@ -31,12 +32,21 @@ Perform the following task for creating Active Directory lab:
 
 - Created and ran a powershell script that creates new users and gives them usernames and passwords, an organisational unit and an employee ID. I've essentially used the powershell script to replicate a corporate network onboarding process.
 
+Performed the following tasks for conducting vulnerability scans with Nessus
+
+- installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
+
+- Implemented Vulnerability management function on sandbox networks: Discover, Prioritise, Assess, Report, Remediate, Verify
+
+- Conducted vulnerability assessments with Nessus; remediated vulnerabilities
+
+- Developed automated remediation process to preemptively deal with Vulnerabilities stemming from Windows updated and third party software.
+
+
 
 <h2>⏰Upcoming Projects</h2>
 
-  - Creating a File Integrity Monitor (June 13th)
-
-  - Creating a Vulnerability Management Lab (June 17th)
+  - Creating a File Integrity Monitor (June 19th)
 
 <h2>📜Certifications</h2>
 
