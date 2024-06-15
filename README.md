@@ -63,6 +63,9 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 [linkedin]: https://www.linkedin.com/in/mark-kamotho-9b67971b8/
 
+<h2>📫 How to reach me:</h2>
+- Email: Markkamotho@gmail.com
+- Phone: 07749075269
 <!--
 
 - 🔭 I’m currently working on ...
