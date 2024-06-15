@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/Mark-Cyber">Security Analyst</a>
+<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-kamotho-9b67971b8/">Security Analyst</a>
 
 <h2>👨‍💻CyberSecurity Projects</h2>
 
