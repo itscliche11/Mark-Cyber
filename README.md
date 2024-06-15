@@ -44,7 +44,7 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 - Developed automated remediation process to preemptively deal with Vulnerabilities stemming from Windows updated and third party software.
 
-<h2>🗣🧠SKILLS</h2>
+<h2>🧠SKILLS</h2>
 
 - Self-starter: Once starting out in a new work environment, I do not heavily rely on staff to excel at my position. I will take the initiative to define and make plans to execute my goals to not only help myself thrive in my position but also help my new team to achieve our objectives. If there is a knowledge gap I do not expect senior staff to strain themselves for my sake, I will instantly research and gather information about the needs of my new team and make an effort to meet above the expectation by providing proactive solutions. 
 
