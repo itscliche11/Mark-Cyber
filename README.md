@@ -6,7 +6,7 @@
     
   - Active Directory [Setting up a Virtual Active Directory Environment in Azure](https://github.com/Mxrk23/Active-Directory/blob/main/README.md#setting-up-a-home-lab-running-active-directory-oracle-virtualbox-and-adding-users-with-powershell)
     
-  - Nessus [Creating a Vulnerability Management Lab with Nessus](https://github.com/Mxrk23/Vulnerability-Management)
+  - Vulnerability Management [Creating a Vulnerability Management Lab with Nessus](https://github.com/Mxrk23/Vulnerability-Management)
 
 
 <h2>📊Experience</h2>
