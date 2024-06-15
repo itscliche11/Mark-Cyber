@@ -65,7 +65,7 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 <h2>📫 How to reach me:</h2>
 - Email: Markkamotho@gmail.com
-- Phone: 07749075269
+  Phone: 07749075269
 <!--
 
 - 🔭 I’m currently working on ...
