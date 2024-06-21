@@ -8,7 +8,7 @@
     
   - Vulnerability Management [Creating a Vulnerability Management Lab with Nessus](https://github.com/Mxrk23/Vulnerability-Management)
 
-  - Creating a File Integrity Monitor [Hashing Algorithms + Coding a File Integrity Monitor Using Powershell]()
+  - Creating a File Integrity Monitor [Hashing Algorithms + Coding a File Integrity Monitor Using Powershell](https://github.com/Mxrk23/File-Integrity-Monitor/blob/main/README.md)
 
 <h2>📊Experience</h2>
 
