@@ -8,6 +8,7 @@
     
   - Vulnerability Management [Creating a Vulnerability Management Lab with Nessus](https://github.com/Mxrk23/Vulnerability-Management)
 
+  - Creating a File Integrity Monitor [Hashing Algorithms + Coding a File Integrity Monitor Using Powershell]()
 
 <h2>📊Experience</h2>
 
@@ -54,9 +55,9 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 - Ethical Mindset: As an employee under West London NHS Trust, I do have access to patients' protected information and because of this I am enforced and able to follow ethical standards such as the GDPR. I am also able to consider the impact of security decisions on individuals and organizations as well as ensure privacy of data. In relations to my extensive study in cybersecurity I am also able to follow compliance standards such as HIPPA, PCI DSS, ISO 27001, ISO 27002 and the NIST Framework
 
-<h2>⏰Upcoming Projects</h2>
 
-  - Creating a File Integrity Monitor (June 19th)
+
+   
 
 <h2>📜Certifications</h2>
 
