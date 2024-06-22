@@ -45,6 +45,9 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 - Developed automated remediation process to preemptively deal with Vulnerabilities stemming from Windows updated and third party software.
 
+
+
+
 <h2>🧠SKILLS</h2>
 
 - Self-starter: Once starting out in a new work environment, I do not heavily rely on staff to excel at my position. I will take the initiative to define and make plans to execute my goals to not only help myself thrive in my position but also help my new team to achieve our objectives. If there is a knowledge gap I do not expect senior staff to strain themselves for my sake, I will instantly research and gather information about the needs of my new team and make an effort to meet above the expectation by providing proactive solutions. 
@@ -56,6 +59,21 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 - Ethical Mindset: As an employee under West London NHS Trust, I do have access to patients' protected information and because of this I am enforced and able to follow ethical standards such as the GDPR. I am also able to consider the impact of security decisions on individuals and organizations as well as ensure privacy of data. In relations to my extensive study in cybersecurity I am also able to follow compliance standards such as HIPPA, PCI DSS, ISO 27001, ISO 27002 and the NIST Framework
 
 
+Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
+
+- CreatedaBaselinethatwasusedtomonitoranychangeswithinaTargetFilebycomparingtheHashesstored within the baseline to the Target File Hash
+
+- Loadedthebaseline.txthashfilesintoadictionary
+
+- Created a iteration loop function that  calculatesHashValuesfromTargetFilesthencomparethefilehashtowhat
+is stored in the baseline.txt file
+
+- UsedPowershelltoStorethefilehashpairsintoabaseline.txtfile
+
+- CreatedaPowershellscriptthatmonitorsfileswithasavedbaselineandload
+
+- Wrote a Cmdlet that displays messages to the console alerting the user if contents of a file or the file itself has
+been changed or deleted.
 
    
 
