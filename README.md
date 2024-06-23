@@ -12,7 +12,7 @@
 
 <h2>📊Experience</h2>
 
-Security Analyst. 01/2023 - Present
+Security Analyst. 02/2023 - Present
 
 Performed the following tasks for Azure Sentinel (SIEM):
 
