@@ -64,21 +64,6 @@ Performed the following tasks for conducting vulnerability scans with Nessus
   By combining these skills related to customer service, I ensure a smooth and positive experience for users encountering technical issues. This allows me to not only resolve problems efficiently but also build rapport with customers whilst promoting a positive image for my workplace.
   Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
 
-- Created a  BaselinethatwasusedtomonitoranychangeswithinaTargetFilebycomparingtheHashesstored within the baseline to the Target File Hash
-
-- Loadedthebaseline.txthashfilesintoadictionary
-
-- Created a iteration loop function that  calculatesHashValuesfromTargetFilesthencomparethefilehashtowhat
-is stored in the baseline.txt file
-
-- UsedPowershelltoStorethefilehashpairsintoabaseline.txtfile
-
-- CreatedaPowershellscriptthatmonitorsfileswithasavedbaselineandload
-
-- Wrote a Cmdlet that displays messages to the console alerting the user if contents of a file or the file itself has
-been changed or deleted.
-
-   
 
 <h2>📜Certifications</h2>
 
