@@ -58,12 +58,13 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 - Ethical Mindset: As an employee under West London NHS Trust, I do have access to patients' protected information and because of this I am enforced and able to follow ethical standards such as the GDPR. I am also able to consider the impact of security decisions on individuals and organizations as well as ensure privacy of data. In relations to my extensive study in cybersecurity I am also able to follow compliance standards such as HIPPA, PCI DSS, ISO 27001, ISO 27002 and the NIST Framework
 
-- Self-starter: Once starting out in a new work environment, I do not heavily rely on staff to excel at my position. I will take the initiative to define and make plans to execute my goals to not only help myself thrive in my position but also help my new team to achieve our objectives. If there is a knowledge gap I do not expect senior staff to strain themselves for my sake, I will instantly research and gather information about the needs of my new team and make an effort to meet above the expectation by providing proactive solutions.
-Customer Service: I possess a strong ability to actively listen about people’s concerns, asking clarifying questions to pinpoint the exact issue they are experiencing. This ensures that I can gather accurate information for effective troubleshooting. I also understand how frustrating technical issues can be for people but I am able to demonstrate patience whilst delivering clear guidance throughout the interaction and keep all parties involved with the progress of the issue being resolved. As well as this, I am able to offer positive reinforcement during the resolution process. This helps builds a more collaborative problem-solving environment between myself and a customer.
-By combining these skills related to customer service, I ensure a smooth and positive experience for users encountering technical issues. This allows me to not only resolve problems efficiently but also build rapport with customers whilst promoting a positive image for my workplace.
-Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
 
-- CreatedaBaselinethatwasusedtomonitoranychangeswithinaTargetFilebycomparingtheHashesstored within the baseline to the Target File Hash
+
+- Customer Service: I possess a strong ability to actively listen about people’s concerns, asking clarifying questions to pinpoint the exact issue they are experiencing. This ensures that I can gather accurate information for effective troubleshooting. I also understand how frustrating technical issues can be for people but I am able to demonstrate patience whilst delivering clear guidance throughout the interaction and keep all parties involved with the progress of the issue being resolved. As well as this, I am able to offer positive reinforcement during the resolution process. This helps builds a more collaborative problem-solving environment between myself and a customer.
+  By combining these skills related to customer service, I ensure a smooth and positive experience for users encountering technical issues. This allows me to not only resolve problems efficiently but also build rapport with customers whilst promoting a positive image for my workplace.
+  Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
+
+- Created a  BaselinethatwasusedtomonitoranychangeswithinaTargetFilebycomparingtheHashesstored within the baseline to the Target File Hash
 
 - Loadedthebaseline.txthashfilesintoadictionary
 
