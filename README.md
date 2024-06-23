@@ -45,7 +45,19 @@ Performed the following tasks for conducting vulnerability scans with Nessus
 
 - Developed automated remediation process to preemptively deal with Vulnerabilities stemming from Windows updated and third party software.
 
+Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
 
+- Created a Baseline that was used to monitor any changes within a Target File by comparing the Hashes stored within the baseline to the Target File Hash
+
+- Loaded the baseline.txt hash files into a dictionary
+
+- Created a iteration loop function that calculates Hash Values from Target Files then compare the file hash to what is stored in the baseline.txt file
+
+- Used Powershell to Store the file hash pairs into a baseline.txt file
+
+- Created a Powershell script that monitors files with a saved baseline and load 
+
+- Wrote a Cmdlet that displays messages to the console alerting the user if contents of a file or the file itself  has been changed or deleted.
 
 
 <h2>🧠SKILLS</h2>
