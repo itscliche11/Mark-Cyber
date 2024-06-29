@@ -74,7 +74,7 @@ Performed the following tasks for Coding a File Integrity Monitor using Powershe
 
 - Customer Service: I possess a strong ability to actively listen about people’s concerns, asking clarifying questions to pinpoint the exact issue they are experiencing. This ensures that I can gather accurate information for effective troubleshooting. I also understand how frustrating technical issues can be for people but I am able to demonstrate patience whilst delivering clear guidance throughout the interaction and keep all parties involved with the progress of the issue being resolved. As well as this, I am able to offer positive reinforcement during the resolution process. This helps builds a more collaborative problem-solving environment between myself and a customer.
   By combining these skills related to customer service, I ensure a smooth and positive experience for users encountering technical issues. This allows me to not only resolve problems efficiently but also build rapport with customers whilst promoting a positive image for my workplace.
-  Performed the following tasks for Coding a File Integrity Monitor using Powershell and Hashing Algorithms
+  
 
 
 <h2>📜Certifications</h2>
