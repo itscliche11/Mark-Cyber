@@ -70,11 +70,10 @@ Performed the following tasks for Coding a File Integrity Monitor using Powershe
 [CompTIA CySA+](https://www.credly.com/badges/6236b8e6-f6da-489e-b8c8-315ad0646231/public_url
 )
 
-[linkedin]: https://www.linkedin.com/in/mark-kamotho-9b67971b8/
+[linkedin]: 
 
 <h2>📫 How to reach me:</h2>
-- Email: Markkamotho@gmail.com
-  Phone: 07749075269
+- [linkedin]: https://www.linkedin.com/in/mark-kamotho-9b67971b8/)
 <!--
 
 - 🔭 I’m currently working on ...
