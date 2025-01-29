@@ -10,9 +10,8 @@
 
   - Creating a File Integrity Monitor [Hashing Algorithms + Coding a File Integrity Monitor Using Powershell](https://github.com/Mxrk23/File-Integrity-Monitor/blob/main/README.md)
 
-<h2>📊Experience</h2>
+<h2>📊Home Experience</h2>
 
-Security Analyst. 02/2023 - Present
 
 Performed the following tasks for Azure Sentinel (SIEM):
 
