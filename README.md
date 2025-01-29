@@ -59,23 +59,6 @@ Performed the following tasks for Coding a File Integrity Monitor using Powershe
 - Wrote a Cmdlet that displays messages to the console alerting the user if contents of a file or the file itself  has been changed or deleted.
 
 
-<h2>🧠SKILLS</h2>
-
-- Self-starter: Once starting out in a new work environment, I do not heavily rely on staff to excel at my position. I will take the initiative to define and make plans to execute my goals to not only help myself thrive in my position but also help my new team to achieve our objectives. If there is a knowledge gap I do not expect senior staff to strain themselves for my sake, I will instantly research and gather information about the needs of my new team and make an effort to meet above the expectation by providing proactive solutions. 
-
-- Team Work + Communication Skills: In my current role, I am tasked to communicate in MDT meetings with Doctors, Consultants, Psychologists, Nurses or my IT support team and a range of other specialists on coming up with plans about how to  deliver the best possible care to patients. This enables me to consider viewpoints from different perspectives of medical specialists and create solutions that help meet ward unit objectives.
-
-- Interpersonal Skills: I have attained significant experience in building and maintaining positive relationships with colleagues, managers, psychologists, consultants, nurses and service users. This evolved from me being approachable, empathetic and being able to collaborate effectively with others.  I am able to adapt my language depending on the audience I am speaking to. For example, I can either use more sophisticated language whilst collaborating with a nurse or break down my language when having any discussions with a different employee. Also able to liaise with my IT support team about mitigation methods and ticketing enquiries as I am able to take on the initiative to funnel growth across an organization or team. 
-
-- Ethical Mindset: As an employee under West London NHS Trust, I do have access to patients' protected information and because of this I am enforced and able to follow ethical standards such as the GDPR. I am also able to consider the impact of security decisions on individuals and organizations as well as ensure privacy of data. In relations to my extensive study in cybersecurity I am also able to follow compliance standards such as HIPPA, PCI DSS, ISO 27001, ISO 27002 and the NIST Framework
-
-
-
-- Customer Service: I possess a strong ability to actively listen about people’s concerns, asking clarifying questions to pinpoint the exact issue they are experiencing. This ensures that I can gather accurate information for effective troubleshooting. I also understand how frustrating technical issues can be for people but I am able to demonstrate patience whilst delivering clear guidance throughout the interaction and keep all parties involved with the progress of the issue being resolved. As well as this, I am able to offer positive reinforcement during the resolution process. This helps builds a more collaborative problem-solving environment between myself and a customer.
-  By combining these skills related to customer service, I ensure a smooth and positive experience for users encountering technical issues. This allows me to not only resolve problems efficiently but also build rapport with customers whilst promoting a positive image for my workplace.
-  
-
-
 <h2>📜Certifications</h2>
 
 [Microsoft Security Operations Analyst](https://learn.microsoft.com/api/credentials/share/en-us/MarkKamotho-9627/924C7328A47B84CB?sharingId=3C3E8366B7D705F0)
